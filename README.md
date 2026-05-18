@@ -26,8 +26,7 @@ I am making this satisfying via sparkles, a rising bar if you stay on the line, 
 
 ## Feedback layers
 
-What does the player see/hear?
-    A wooden background, a roll of fabric, and a scissor. Calming music and rythmic sounds.
+What does the player see/hear?A wooden background, a roll of fabric, and a scissor. Calming music and rythmic sounds.
 
 What changes in score/timer?
     When you stay on the line the score goes up, and the timer ticks down.
@@ -43,3 +42,25 @@ What is the input, action and result?
 
 What do combos do?
     When you finish a certain amount of cuts in a certain amount of time, you get a combo, which ups your score by an x amount.
+
+## Mechanic Breakdown
+
+When does the action begin?
+
+When you click onto the scissor and begin dragging it to the cloth.
+
+When is the action successful?
+
+When you drag it onto the fabric.
+
+What changes?
+
+It gains a cutting animation.
+
+Which variabele do you need?
+
+To monitor whether you've touched the scissors, and it's proximity to the cloth and specifically the guideline.
+
+Which feedback does the player get?
+
+You can see the snipping, hear the sound, and the player character makes remarks.
