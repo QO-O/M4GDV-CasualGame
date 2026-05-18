@@ -23,3 +23,19 @@ It's something you don't really think about, just do it.
 
 Juiciness
 I am making this satisfying via sparkles, a rising bar if you stay on the line, and commentary in-game as if the player is commenting to themself.
+
+## Feedback layers
+
+What does the player see/hear?
+    A wooden background, a roll of fabric, and a scissor. Calming music and rythmic sounds.
+What changes in score/timer?
+    When you stay on the line the score goes up, and the timer ticks down.
+What moves/is animated?
+    The scissors and the guidelines, as well as the fabric sliding into place.
+What makes this satisfying?
+    You can see the snipping, hear the sound, and the player character makes remarks.
+
+What is the input, action and result?
+    Click-and-drag; you click the scissors, drag it to the fabric onto the guideline, and it starts cutting.
+What do combos do?
+    When you finish a certain amount of cuts in a certain amount of time, you get a combo, which ups your score by an x amount.
